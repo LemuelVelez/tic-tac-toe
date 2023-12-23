@@ -11,7 +11,3 @@ To run the code from source, install its dependencies with `npm i`
 
 ## Start locally for dev
 `npm run dev`
-
-## todo:
-- [ ] more unit tests with Vitest (compatible with Jest syntax).
-- [ ] end to end tests.
